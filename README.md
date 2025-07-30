@@ -1,7 +1,7 @@
 # Hello, I'm Edwin-Soriano, a Python programmer
 
 💻 Python Backend Developer  
-I am currently learning Python, and going through the backend development process!
+I am currently learning Python, and going through the backend development process
 
 ---
 
